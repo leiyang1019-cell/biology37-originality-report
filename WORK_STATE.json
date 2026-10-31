@@ -1,0 +1,24 @@
+{
+  "snapshot_date": "2026-10-31",
+  "scope": "Independent 37-school biology report; isolated from original research project.",
+  "papers": 84789,
+  "schools": 37,
+  "grades": {
+    "高原创": 3440,
+    "较高原创": 71898,
+    "一般原创": 6510,
+    "低原创": 2941
+  },
+  "wos_directions": 128,
+  "talent_observation_authors": 107,
+  "bibliography_records": 83858,
+  "current_task": "User reviewing Markdown body text; drawing deferred; 12 completed charts retained. Word conversion only after text approval.",
+  "core_data_policy": "Chinese grade labels only. WoS Categories directions. Fixed JIF metric year 2023 / release 2024. Mainland China/Hong Kong/Macao/Taiwan treated as domestic.",
+  "original_server_required_for_current_report": false,
+  "not_in_snapshot": [
+    "Original 531 MB XLSX including evaluation background/full text",
+    "Full local WoS/CrossRef databases and reference lists",
+    "Server model endpoints and credentials"
+  ],
+  "upload_status": "GitHub transfer in progress; verify the repository and release before use. Codex Cloud environment has not been created or tested."
+}

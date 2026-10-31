@@ -1,0 +1,13 @@
+work/
+.env
+.venv/
+__pycache__/
+*.pyc
+*.sqlite
+*.partial
+37_school_offline_data_20261031/
+37_school_main_outline_20261031/
+37_school_chapters_1_3_wos_20261031/
+37_school_formal_report_20261031/analysis/
+37_school_formal_report_20261031/resources/
+37_school_formal_report_20261031/audit/
